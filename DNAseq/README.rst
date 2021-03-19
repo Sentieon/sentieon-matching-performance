@@ -22,7 +22,7 @@ Fastq files of NA12878 were downloaded from FTP site:
 
 Hg38 and other databases were downloaded from GATK resource bundle.
 
-See here: https://software.broadinstitute.org/gatk/download/bundle
+See here: https://gatk.broadinstitute.org/hc/en-us/articles/360035890811-Resource-bundle
 
 +--------------------------+------------------------------------------------------+
 | Arguments                | File                                                 |
